@@ -41,15 +41,15 @@
             <p> <strong>Cursando:</strong> Análise e Desenvolvimento de Sistemas</p>
             <p> <strong>Email:</strong> israelvipe@gmail.com</p>
             <div class="texto-bloco">
-              <p>Desde 2016 estudo na Faculdade de Tecnologia de Taubaté (FATEC), desenvolvi diversos projetos durente este periodo, 
-              como um sistema para gerenciamento de projetos e sistemas distribuidos em arquitetura cliente-servidor,
+              <p>Desde 2016 estudo na Faculdade de Tecnologia de Taubaté (FATEC), desenvolvi diversos projetos durante este período, 
+              como um sistema para gerenciamento de projetos e sistemas distribuídos em arquitetura cliente-servidor,
               tudo seguindo as praticas de Engenharia de Software.<br>
               Fiz estagio em uma empresa de desenvolvimento web, onde tive contato com diversas tecnologias do mundo web,
               como HTML, CSS, Javascript, JQuery, AngularJS, Cordova, Ionic, PHP, entre outras, 
-              assim como adiquiri experiencia com Bancos de dados MySQL e servidores FTP (Filezilla)<br>
+              assim como adquiri experiencia com Bancos de dados MySQL e servidores FTP (Filezilla)<br>
               Atualmente estou desenvolvendo jogos digitais, um como trabalho para disciplina de Laboratório de Engenharia de Software,
-              e outro como trabalho de graduação para faculdade, para estes projetos utilizo a engine Unity, que faz uso da Linguagem C#, 
-              tambem possuo experiencia com as linguagens Java, Python e C++.
+              e outro como trabalho de graduação para a faculdade, para estes projetos utilizo a engine Unity, que faz uso da Linguagem C#,
+              também possuo experiencia com as linguagens Java, Python e C++.
               </p>
             </div>
           </div>
